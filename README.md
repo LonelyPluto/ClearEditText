@@ -1,7 +1,7 @@
 # ClearEditText
-自定义EditText,当有内容的时候出现删除，点击删除按钮清空内容。重写OnTouch事件，主要是判断删除按钮
+只需要一个ClearEditText.java文件就可以了
 # Screenshots
-![](screenshot/screen1.png)|![](screenshot/et.gif)
+![](screenshot/et.gif)![](screenshot/screen1.png)
 # Sample
 用法和普通的EditText相同，把自定义的路径写对就行
 ``` xml
