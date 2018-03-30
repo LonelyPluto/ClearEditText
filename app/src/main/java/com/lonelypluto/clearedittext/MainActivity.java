@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.widget.EditText;
 
 /**
- * 测试类
+ * 测试
  */
 public class MainActivity extends AppCompatActivity {
 
